@@ -1,8 +1,9 @@
 <#
 .SYNOPSIS
-    Requests new VM name and creates VM with standardized specs.
+    Requests new VM name and creates an Azure VM with standardized specs.
 .DESCRIPTION
-    New-AzureLabVM is used to create VMs for an Azure lab. It uses certain hard coded New-AzVM parameters while requesting a VM name and username/password for the new VM.
+    New-AzureLabVM is used to create VMs for an Azure lab. It calls a JSON file that is stored in Github for VM config info
+    while prompting for a VM name and username/password for the new VM.
 .PARAMETER  
 
 .EXAMPLE
