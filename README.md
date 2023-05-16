@@ -8,3 +8,5 @@ To every extent possible, the scripts have been scrubbed of identifying informat
 A few of the items in the repo were for the computer lab and updating the kiosk PCs used by the students.
 
 Permission was provided by employer to for me to retain all scripts made during time of employement.
+
+I will add files that seem relevant as I go along. This includes some Azure related projects.
